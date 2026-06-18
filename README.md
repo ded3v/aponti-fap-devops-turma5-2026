@@ -1,6 +1,4 @@
-# aponti-fap-devops-turma5-2026
-
-# Turma DevOps
+# Turma 5 de DevOps da Aponti Academy 2026
 
 Repositório colaborativo da turma para prática de Git, GitHub, Branches, Commits, Pull Requests e GitHub Actions.
 
