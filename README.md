@@ -28,14 +28,15 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/nhsneto.png" width="50"> | Nelson Neto | [@nhsneto](https://github.com/nhsneto) | Paulista | [Perfil](https://linkedin.com/in/nhsneto) |
 | <img src="https://github.com/PedroDelmiro13.png" width="50"> | Pedro Delmiro | [@PedroDelmiro13](https://github.com/PedroDelmiro13) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/pedrodelmiro) |
 | <img src="https://github.com/victorjls21.png" width="50"> | Victor Julius | [@victorjls21](https://github.com/victorjls21) | Olinda | [Perfil](https://linkedin.com/in/victor-julius) |
+| <img src="https://github.com/VitorJunior60.png" width="50"> | Vitor Marques | [@VitorJunior60](https://github.com/VitorJunior60) | Recife | [Perfil](www.linkedin.com/in/vitor-marques-3b1098368) |
 
 <!-- TABELA-FIM -->
 
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 8
+Total de alunos cadastrados: 9
 
-Última atualização: 19/06/2026, 23:00
+Última atualização: 19/06/2026, 23:01
 
 <!-- ESTATISTICAS-FIM -->
