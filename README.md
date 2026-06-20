@@ -37,6 +37,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/Nayara1505.png" width="50"> | Nayara Karla Medeiros da Silva | [@Nayara1505](https://github.com/Nayara1505) | Jaboatão dos Guararapes | - |
 | <img src="https://github.com/nhsneto.png" width="50"> | Nelson Neto | [@nhsneto](https://github.com/nhsneto) | Paulista | [Perfil](https://linkedin.com/in/nhsneto) |
 | <img src="https://github.com/PedroDelmiro13.png" width="50"> | Pedro Delmiro | [@PedroDelmiro13](https://github.com/PedroDelmiro13) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/pedrodelmiro) |
+| <img src="https://github.com/ph95583faculdade-maker.png" width="50"> | Pedro Henrique | [@ph95583faculdade-maker](https://github.com/ph95583faculdade-maker) | Recife | [Perfil](https://www.linkedin.com/in/pedro-h-lima) |
 | <img src="https://github.com/talescavalcanti.png" width="50"> | Tales Cavalcanti | [@talescavalcanti](https://github.com/talescavalcanti) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/tales-cavalcantii) |
 | <img src="https://github.com/victorjls21.png" width="50"> | Victor Julius | [@victorjls21](https://github.com/victorjls21) | Olinda | [Perfil](https://linkedin.com/in/victor-julius) |
 | <img src="https://github.com/VitorJunior60.png" width="50"> | Vitor Marques | [@VitorJunior60](https://github.com/VitorJunior60) | Recife | [Perfil](www.linkedin.com/in/vitor-marques-3b1098368) |
@@ -46,8 +47,8 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 20
+Total de alunos cadastrados: 21
 
-Última atualização: 20/06/2026, 00:23
+Última atualização: 20/06/2026, 02:49
 
 <!-- ESTATISTICAS-FIM -->
